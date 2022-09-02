@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKcwSLKd1/4SzdwBEzXxYy4ftnWyxeo2453WRzMQyLC6vw6vtqebGpwar7MMZ51ew2QZ6GUorxQfM30P90CCeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\Document\\AWS Project\\AWSProject\\AWSProject\\AWSProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\awssdk.core\\3.7.12.27\\awssdk.core.3.7.12.27.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\awssdk.s3\\3.7.9.45\\awssdk.s3.3.7.9.45.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
